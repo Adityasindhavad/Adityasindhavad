@@ -1,4 +1,4 @@
-# Hi there, I'm Aditya Kanaiya Sindhavad! 👋
+# Hi there, I'm Aditya Sindhavad! 👋
 
 Welcome to my GitHub profile! I'm a passionate **Analyst**. I leverage my analytical expertise, technical skills, and strategic thinking to solve complex problems and deliver impactful solutions.
 
