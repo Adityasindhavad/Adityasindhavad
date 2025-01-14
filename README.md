@@ -58,16 +58,9 @@ _For a complete list of my projects, check out my repositories!_
 ## 🌐 Social Profiles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sindhavad-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adityasindhavad/)  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Aditya%20Sindhavad-lightgrey?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/adityasindhavad)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Aditya%20Sindhavad-lightgrey?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=YyumVmgAAAAJ&hl=en)  
 
----
 
-## 📊 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityasindhavad&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityasindhavad&layout=compact&theme=radical)
-
----
 
 Feel free to reach out, collaborate, or just say hi! Let's build something amazing together. 🚀
 
